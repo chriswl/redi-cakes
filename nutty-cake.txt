@@ -1,10 +1,10 @@
 Basic cake with walnuts
 
 Ingredients:
-100g    rice flour
-100g    buttter
-200g    sugar
-100g    ground walnuts
+
+200g    rice flour
+200g    buttter
+400g    sugar
+200g    ground walnuts
 
 Mix all ingredients and bake.
-

@@ -1,9 +1,8 @@
 Basic cake
 
 Ingredients:
-100g 	rice flour
-100g	buttter
-200g  sugar
+200g 	rice flour
+200g	buttter
+400g  sugar
 
 Mix all ingredients and bake.
-
