@@ -3,7 +3,7 @@ Basic cake
 Ingredients:
 100g 	flour
 100g	buttter
-100g sugar
+200g  sugar
 
 Mix all ingredients and bake.
 
